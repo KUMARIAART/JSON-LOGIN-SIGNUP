@@ -1,0 +1,16 @@
+{
+     "aarti": {
+          "name": "aarti",
+          "password": "4pooja@1",
+          "phone number": 3456789,
+          "date of birth": "45678",
+          "gender": "f"
+     },
+     "sheetal": {
+          "name": "sheetal",
+          "password": "sheeta@1",
+          "phone number": 9876543,
+          "date of birth": "98765",
+          "gender": "f"
+     }
+}
